@@ -1,0 +1,2 @@
+
+./mitmproxy --set block_global=false -s getSession.py
